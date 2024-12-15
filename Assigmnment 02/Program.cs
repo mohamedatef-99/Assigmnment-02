@@ -1,4 +1,6 @@
-﻿namespace Assigmnment_02
+﻿using System.Text;
+
+namespace Assigmnment_02
 {
     internal class Program
     {
@@ -175,6 +177,26 @@
             //    i++;
             //} while (i <= 10); 
             #endregion
+
+            #region Sting Builder
+            //// String Builder : Class
+            //// Mutable : Can be changed
+            //StringBuilder S01;
+            //// declare for reference from type StringBuilder
+            ////s01 can refer to an object of type StringBuilder
+            //// s01 refer to null
+
+            //S01 = new StringBuilder("Ahmed");
+            //// new
+            //// allocate number of required bytes for the object at the heap
+            //// initialize the object with the default values
+            //// call user-defined constructor if exists
+            //// assign the object to the reference
+
+            //Console.WriteLine(S01);
+            //S01.Append(" Ali"); 
+            #endregion
+
         }
     }
 }
