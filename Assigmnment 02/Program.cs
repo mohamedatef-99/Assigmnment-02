@@ -197,6 +197,18 @@ namespace Assigmnment_02
             //S01.Append(" Ali"); 
             #endregion
 
+            #region String Methods
+            // String Methods
+            //string S01 = "Hello World";
+            //S01.Substring(1);
+            //S01.Replace("Hello", "Hi");
+            //S01.StartsWith("H", false, null);
+            //S01.EndsWith("d", false, null);
+            //S01.Contains("W");
+            //S01.ToCharArray();
+            //S01.CompareTo("Hello"); 
+            #endregion
+
         }
     }
 }
