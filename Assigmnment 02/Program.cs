@@ -206,6 +206,146 @@
             //    Console.WriteLine("Invalid input");
             //} 
             #endregion
+
+            #region Q11
+            //int month;
+            //bool flag;
+
+            //do
+            //{
+            //    Console.WriteLine("Enter month: ");
+            //    flag = int.TryParse(Console.ReadLine(), out month);
+
+            //}
+            //while (!flag);
+
+            //switch (month)
+            //{
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //        Console.WriteLine("Days in Month: 31");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Days in Month: 28");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Days in Month: 30");
+            //        break;
+            //} 
+            #endregion
+
+            #region Q12
+            //int num1;
+            //bool flag1;
+            //do
+            //{
+            //    Console.WriteLine("Enter num1: ");
+            //    flag1 = int.TryParse(Console.ReadLine(), out num1);
+            //} while (!flag1);
+
+            //char op;
+            //bool flag2;
+            //do
+            //{
+            //    Console.WriteLine("Enter operator: ");
+            //    flag2 = char.TryParse(Console.ReadLine(), out op);
+            //} while (!flag2);
+
+            //int num2;
+            //bool flag3;
+            //do
+            //{
+            //    Console.WriteLine("Enter num2: ");
+            //    flag3 = int.TryParse(Console.ReadLine(), out num2);
+            //} while (!flag3);
+
+            //switch (op)
+            //{
+            //    case '+':
+            //        Console.WriteLine(num1 + num2);
+            //        break;
+            //    case '-':
+            //        Console.WriteLine(num1 - num2);
+            //        break;
+            //    case '*':
+            //        Console.WriteLine(num1 * num2);
+            //        break;
+            //    case '/':
+            //        Console.WriteLine(num1 / num2);
+            //        break;
+            //    default:
+            //        Console.WriteLine("Invalid operator");
+            //        break;
+            //} 
+            #endregion
+
+            #region Q13
+            //string word;
+            //////bool flag;
+            //////do
+            //////{
+            //////    Console.WriteLine("Enter word");
+            //////    flag = !int.TryParse(Console.ReadLine(), out word);
+            //////}
+            //////while (!flag);
+            //Console.WriteLine("Enter word: ");
+            //word = Console.ReadLine();
+            //for (int i = word.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write(word[i]);
+            //}
+            #endregion
+
+            #region Q14
+            //int num;
+            //bool flag;
+            //do
+            //{
+            //    Console.WriteLine("Enter int");
+            //    flag = int.TryParse(Console.ReadLine(), out num);
+            //}
+            //while (!flag);
+            //string word = num.ToString();
+            //for (int i = word.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write(word[i]);
+            //} 
+            #endregion
+
+            #region Q15
+            //int num1;
+            //bool flag1;
+            //do
+            //{
+            //    Console.WriteLine("Enter num1: ");
+            //    flag1 = int.TryParse(Console.ReadLine(), out num1);
+            //} while (!flag1);
+
+            //int num2;
+            //bool flag2;
+            //do
+            //{
+            //    Console.WriteLine("Enter num2: ");
+            //    flag2 = int.TryParse(Console.ReadLine(), out num2);
+            //} while (!flag2);
+
+
+            //for (int i = num1; i <= num2; i++)
+            //{
+            //    for (int j = 2; j < i; j++)
+            //    {
+
+            //    }
+
+
+            //} 
+            #endregion
+
         }
     }
 }
