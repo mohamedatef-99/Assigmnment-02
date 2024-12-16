@@ -345,7 +345,46 @@
 
             //} 
             #endregion
+            #region Q16
 
+            #endregion
+
+            #region Q17
+
+            #endregion
+
+            #region Q18
+            //int time;
+            //bool flag;
+            //do
+            //{
+            //    Console.Write("Enter the time: ");
+            //    flag = int.TryParse(Console.ReadLine(), out time);
+
+            //}
+            //while (!flag);
+
+            //if (time >= 2 && time <= 3)
+            //{
+            //    Console.WriteLine("considered highly efficient");
+            //}
+            //else if (time > 3 && time <= 4)
+            //{
+            //    Console.WriteLine("instructed to increase their speed");
+            //}
+            //else if (time > 4 && time <= 5)
+            //{
+            //    Console.WriteLine("should provided with training to enhance their speed");
+            //}
+            //else if (time > 5)
+            //{
+            //    Console.WriteLine("required to leave the company");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input");
+            //} 
+            #endregion
         }
     }
 }
